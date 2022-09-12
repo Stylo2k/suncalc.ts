@@ -1,3 +1,5 @@
+# Whatever is down below, it needs updating!!
+> To Use this repo just use the suncalc.ts
 
 SunCalc
 =======
